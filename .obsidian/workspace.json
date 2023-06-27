@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "069a6aa941372ce0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "c96ca3709ec5c837",
             "type": "leaf",
             "state": {
@@ -24,6 +16,18 @@
                 "file": "hello its me.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d815d31db62e15d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nicen't.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello its me.md",
+                "file": "nicen't.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello its me.md",
+                "file": "nicen't.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello its me.md"
+                "file": "nicen't.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,9 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c96ca3709ec5c837",
+  "active": "d815d31db62e15d2",
   "lastOpenFiles": [
     "hello its me.md",
+    "nicen't.md",
     "README.md"
   ]
 }
