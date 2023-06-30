@@ -4,18 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "92b3a382f3152ced",
+        "id": "a06ff611c84617b1",
         "type": "tabs",
         "children": [
           {
-            "id": "c96ca3709ec5c837",
+            "id": "2791b8f75493abf7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f566c5b8b1a18bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejemplo sol. problema cinemática.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66d1ac1b59f7c405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas extra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notas extra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notas extra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notas extra.md"
+              }
             }
           }
         ],
@@ -139,8 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c96ca3709ec5c837",
+  "active": "66d1ac1b59f7c405",
   "lastOpenFiles": [
+    "Pasted image 20230629212609.png",
+    "Pasted image 20230629212039.png",
+    "Pasted image 20230629211713.png",
+    "Pasted image 20230629211631.png",
+    "Pasted image 20230629211529.png",
+    "Pasted image 20230629211522.png",
+    "Pasted image 20230629211256.png",
+    "Pasted image 20230629210306.png",
+    "Pasted image 20230629210242.png",
+    "Pasted image 20230629210138.png",
+    "Pasted image 20230629210028.png",
+    "Ejemplo sol. problema cinemática.md",
+    "notas extra.md",
     "nicen't.md",
     "Nooooo se nah.md",
     "Hola soy Dani.md",
