@@ -20,3 +20,13 @@
 ![[Pasted image 20230629211713.png]]
 ![[Pasted image 20230629212039.png]]
 ![[Pasted image 20230629212609.png]]
+
+
+![[Pasted image 20230630171106.png]]
+![[Pasted image 20230630171240.png]]
+
+![[Pasted image 20230630171729.png]]
+![[Pasted image 20230630171921.png]]
+![[Pasted image 20230630172352.png]]
+![[Pasted image 20230630172630.png]]
+![[Pasted image 20230630172819.png]]
