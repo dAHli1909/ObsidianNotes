@@ -2,7 +2,7 @@
   "promptDelete": false,
   "newLinkFormat": "shortest",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Zettelkasten",
+  "newFileFolderPath": "001Fragments",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Files"
+  "attachmentFolderPath": "003Media"
 }

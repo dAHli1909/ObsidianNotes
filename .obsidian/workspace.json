@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c297a8d5ca87c948",
+        "id": "027945935bffd12a",
         "type": "tabs",
         "children": [
           {
-            "id": "f04375c09685863c",
+            "id": "cda36a3b7a075034",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001Fragments/Cinemática.Chimal.ProblemaCinemática.md",
+                "file": "000Templates/Fragment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a569d6199d3a0eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000Templates/Map of Content.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001Fragments/Cinemática.Chimal.ProblemaCinemática.md",
+                "file": "000Templates/Map of Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001Fragments/Cinemática.Chimal.ProblemaCinemática.md",
+                "file": "000Templates/Map of Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001Fragments/Cinemática.Chimal.ProblemaCinemática.md"
+                "file": "000Templates/Map of Content.md"
               }
             }
           }
@@ -147,10 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a2a6a02855b91be",
+  "active": "a569d6199d3a0eb5",
   "lastOpenFiles": [
-    "001Fragments/Cinemática.Chimal.Res&Datos.md",
+    "001Fragments/Interesting.md",
+    "000Templates/Map of Content.md",
+    "000Templates/Fragment.md",
     "001Fragments/Cinemática.Chimal.ProblemaCinemática.md",
+    "000Templates",
+    "001Fragments/Cinemática.Chimal.Res&Datos.md",
     "2023-07-08.md",
     "003Media/Pasted image 20230630172819.png",
     "003Media/Pasted image 20230630172630.png",
@@ -164,7 +181,7 @@
     "003Media/Pasted image 20230629211713.png",
     "Untitled.md",
     "003Media",
-    "004Zettlekasten",
+    "004Zettelkasten",
     "002References",
     "Templates",
     "Files",
