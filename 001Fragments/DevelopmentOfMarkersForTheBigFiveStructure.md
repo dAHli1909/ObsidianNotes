@@ -13,6 +13,7 @@ Basado en comentarios dados por estudiados sobre sí mismos y otros.
 - Agreeableness 
 - Neuroticism 
 
+Hay 4 posibles variables del set Cattell
 
 ---
 # References:
