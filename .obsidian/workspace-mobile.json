@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000Templates/References.md",
+                "file": "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "9b88b0a7d8f9e0c9",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "000Templates/References.md",
+            "file": "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "000Templates/References.md",
+            "file": "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "000Templates/References.md"
+            "file": "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md"
           }
         }
       }
@@ -133,8 +133,9 @@
   },
   "active": "c7d177a080ca31d8",
   "lastOpenFiles": [
-    "001Fragments/Conductismo.Bases.md",
     "000Templates/References.md",
+    "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
+    "001Fragments/Conductismo.Bases.md",
     "001Fragments/Psicología.Papalia_Wenkos.md",
     "000Templates/Fragment.md",
     "001Fragments/Cinemática.Chimal.ProblemaCinemática.md",
