@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000Templates/Fragment.md",
-                "mode": "preview",
+                "file": "000Templates/References.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#frag",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9b88b0a7d8f9e0c9",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "000Templates/Fragment.md",
+            "file": "000Templates/References.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "000Templates/Fragment.md",
+            "file": "000Templates/References.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "000Templates/Fragment.md"
+            "file": "000Templates/References.md"
           }
         }
       }
@@ -133,6 +133,10 @@
   },
   "active": "c7d177a080ca31d8",
   "lastOpenFiles": [
+    "001Fragments/Conductismo.Bases.md",
+    "000Templates/References.md",
+    "001Fragments/Psicología.Papalia_Wenkos.md",
+    "000Templates/Fragment.md",
     "001Fragments/Cinemática.Chimal.ProblemaCinemática.md",
     "LICENSE",
     "003Media/Pasted image 20230630172819.png",
@@ -147,7 +151,6 @@
     "003Media/Pasted image 20230629211713.png",
     "001Fragments/Cinemática.Chimal.Res&Datos.md",
     "000Templates/Map of Content.md",
-    "000Templates/Fragment.md",
     "003Media",
     "001Fragments",
     "000Templates"
