@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
+                "file": "001Fragments/Consciencia.UnidadesFuncionales.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
+            "file": "001Fragments/Consciencia.UnidadesFuncionales.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
+            "file": "001Fragments/Consciencia.UnidadesFuncionales.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md"
+            "file": "001Fragments/Consciencia.UnidadesFuncionales.md"
           }
         }
       }
@@ -133,8 +134,10 @@
   },
   "active": "c7d177a080ca31d8",
   "lastOpenFiles": [
-    "000Templates/References.md",
+    "003Media/IMG_20231025_105117.jpg",
     "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
+    "001Fragments/Consciencia.UnidadesFuncionales.md",
+    "000Templates/References.md",
     "001Fragments/Conductismo.Bases.md",
     "001Fragments/Psicología.Papalia_Wenkos.md",
     "000Templates/Fragment.md",
