@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "603adef39493bb79",
+        "id": "85d37a3e9ef7ca3a",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d177a080ca31d8",
+            "id": "7e9c4f55fe5e7119",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001Fragments/Consciencia.UnidadesFuncionales.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "001Fragments/Consciencia.UnidadesFuncionales.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "001Fragments/Consciencia.UnidadesFuncionales.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "001Fragments/Consciencia.UnidadesFuncionales.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -132,14 +123,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7d177a080ca31d8",
+  "active": "7e9c4f55fe5e7119",
   "lastOpenFiles": [
-    "003Media/IMG_20231025_105117.jpg",
-    "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
+    "003Media/Pasted image 20230629211631.png",
+    "001Fragments/Cinemática.Chimal.Res&Datos.md",
+    "003Media/Pasted image 20230629212609.png",
     "001Fragments/Consciencia.UnidadesFuncionales.md",
-    "000Templates/References.md",
+    "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
     "001Fragments/Conductismo.Bases.md",
     "001Fragments/Psicología.Papalia_Wenkos.md",
+    "003Media/IMG_20231025_105117.jpg",
+    "000Templates/References.md",
     "000Templates/Fragment.md",
     "001Fragments/Cinemática.Chimal.ProblemaCinemática.md",
     "LICENSE",
@@ -150,10 +144,7 @@
     "003Media/Pasted image 20230630171729.png",
     "003Media/Pasted image 20230630171240.png",
     "003Media/Pasted image 20230630171106.png",
-    "003Media/Pasted image 20230629212609.png",
     "003Media/Pasted image 20230629212039.png",
-    "003Media/Pasted image 20230629211713.png",
-    "001Fragments/Cinemática.Chimal.Res&Datos.md",
     "000Templates/Map of Content.md",
     "003Media",
     "001Fragments",

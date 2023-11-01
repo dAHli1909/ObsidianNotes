@@ -1,6 +1,6 @@
 202310250727
 Status: #frag
-Tags: 
+Tags: [[Psicología]]
 # DevelopmentOfMarkersForTheBigFiveStructure
 Serie de factores unipolares cuya integración resulta en un estudio más preciso. 
 

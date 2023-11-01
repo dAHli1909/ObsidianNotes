@@ -1,6 +1,6 @@
 202310251044
 Status: #frag
-Tags: 
+Tags: [[Psicología]]
 
 # Consciencia.UnidadesFuncionales
 
