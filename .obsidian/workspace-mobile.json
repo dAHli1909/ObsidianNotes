@@ -11,8 +11,13 @@
             "id": "7e9c4f55fe5e7119",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "001Fragments/Psicología.Papalia_Wenkos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "001Fragments/Psicología.Papalia_Wenkos.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "001Fragments/Psicología.Papalia_Wenkos.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "001Fragments/Psicología.Papalia_Wenkos.md"
+          }
         }
       }
     ],
@@ -123,7 +132,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e9c4f55fe5e7119",
+  "active": "915054ad8acf39b0",
   "lastOpenFiles": [
     "003Media/Pasted image 20230629211631.png",
     "001Fragments/Cinemática.Chimal.Res&Datos.md",
