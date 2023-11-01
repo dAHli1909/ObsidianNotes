@@ -3,7 +3,7 @@ Status: #zet
 Tags: 
 
 ## Sobre la personalidad: 
-
+ Es una cosa muy loka
 
 ---
 
