@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08bdc657b9c8e058",
+            "id": "5de36a60529d5a98",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "003Media/Pasted image 20230626220209.png"
+                "file": "001Fragments/Cinemática.Chimal.Res&Datos.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#frag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003Media/Pasted image 20230626220209.png",
+                "file": "001Fragments/Cinemática.Chimal.Res&Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003Media/Pasted image 20230626220209.png",
+                "file": "001Fragments/Cinemática.Chimal.Res&Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003Media/Pasted image 20230626220209.png"
+                "file": "001Fragments/Cinemática.Chimal.Res&Datos.md"
               }
             }
           }
@@ -145,15 +147,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a2a6a02855b91be",
+  "active": "5de36a60529d5a98",
   "lastOpenFiles": [
-    "000Templates/Fragment.md",
+    "001Fragments/Conductismo.Bases.md",
+    "001Fragments/Consciencia.UnidadesFuncionales.md",
+    "002References/ChimalCurso2023.md",
+    "001Fragments/Cinemática.Chimal.Res&Datos.md",
     "001Fragments/Cinemática.Chimal.ProblemaCinemática.md",
+    "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
+    "002References/Psicología.Papalia_Wenkos.md",
+    "000Templates/References.md",
+    "004Zettelkasten/PersonalidadGoldberg.md",
+    "000Templates/Fragment.md",
+    "000Templates/Zettelkasten.md",
+    "001Fragments/Untitled 1.md",
+    "001Fragments/Untitled.md",
+    "003Media/Pasted image 20230626220209.png",
+    "Untitled",
+    "003Media/IMG_20231025_105117.jpg",
     "000Templates/Map of Content.md",
     "LICENSE",
     "001Fragments/Interesting.md",
     "000Templates",
-    "001Fragments/Cinemática.Chimal.Res&Datos.md",
     "2023-07-08.md",
     "003Media/Pasted image 20230630172819.png",
     "003Media/Pasted image 20230630172630.png",
@@ -163,8 +178,6 @@
     "003Media/Pasted image 20230630171240.png",
     "003Media/Pasted image 20230630171106.png",
     "003Media/Pasted image 20230629212609.png",
-    "003Media/Pasted image 20230629212039.png",
-    "003Media/Pasted image 20230629211713.png",
     "Untitled.md",
     "003Media",
     "004Zettelkasten",

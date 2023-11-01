@@ -1,7 +1,8 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
-Status: #fragref 
+Status: #zet
+Tags: 
+
+# {{title}}
 
 
 ---
-# References:
--

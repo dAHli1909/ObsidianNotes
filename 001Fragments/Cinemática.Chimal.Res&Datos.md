@@ -1,3 +1,6 @@
+Status: #frag
+Tags: [[Física]]
+
 ![[Pasted image 20230627224433.png]]
 ![[Pasted image 20230627224703.png]]
 ![[Pasted image 20230627224818.png]]
@@ -30,3 +33,5 @@
 ![[Pasted image 20230630172352.png]]
 ![[Pasted image 20230630172630.png]]
 ![[Pasted image 20230630172819.png]]
+# References:
+- [[ChimalCurso2023]]
