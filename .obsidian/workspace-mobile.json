@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004Zettelkasten/PersonalidadGoldberg.md",
+                "file": "001Fragments/Economía.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "004Zettelkasten/PersonalidadGoldberg.md",
+            "file": "001Fragments/Economía.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "004Zettelkasten/PersonalidadGoldberg.md",
+            "file": "001Fragments/Economía.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "004Zettelkasten/PersonalidadGoldberg.md"
+            "file": "001Fragments/Economía.md"
           }
         }
       }
@@ -134,12 +134,25 @@
   },
   "active": "7e9c4f55fe5e7119",
   "lastOpenFiles": [
+    "003Media/PDFs/psnstructure_goldberg.pdf",
+    "003Media/PDFs/goldberg1968.pdf",
+    "003Media/PDFs/Integration of the Big Five and Circumplex Approaches to Trait Structure.pdf",
+    "003Media/PDFs/Goldberg.Big-Five-Markers-Psych.Assess.1992.pdf",
+    "003Media/PDFs/Bigfive-circum-jpsp92.pdf",
+    "003Media/PDFs/A broad-bandwidth inventory.pdf",
+    "/003Media/PDFs/psnstructure_goldberg.pdf",
+    "/003Media/PDFs/goldberg1968.pdf",
+    "/003Media/PDFs/Integration of the Big Five and Circumplex Approaches to Trait Structure.pdf",
+    "/003Media/PDFs/Goldberg.Big-Five-Markers-Psych.Assess.1992.pdf",
+    "/003Media/PDFs/Bigfive-circum-jpsp92.pdf",
+    "/001Fragments/GurrenLagan.Bases.md",
+    "/001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
+    "004Zettelkasten/PersonalidadGoldberg.md",
+    "001Fragments/Economía.md",
     "002References/GurrenLagan.Caribou-kun.md",
     "001Fragments/GurrenLagan.Bases.md",
     "/002References/GurrenLagan.Caribou-kun.md",
-    "/001Fragments/GurrenLagan.Bases.md",
     "001Fragments/Psicología.Papalia_Wenkos.md",
-    "004Zettelkasten/PersonalidadGoldberg.md",
     "002References/Psicología.Papalia_Wenkos.md",
     "002References/ChimalCurso2023.md",
     "000Templates/Zettelkasten.md",
@@ -150,10 +163,6 @@
     "/001Fragments/Cinemática.Chimal.ProblemaCinemática.md",
     "/000Templates/Zettelkasten.md",
     "/000Templates/References.md",
-    "004Zettelkasten",
-    "002References",
-    "/004Zettelkasten",
-    "/002References",
     "003Media/Pasted image 20230629211631.png",
     "001Fragments/Cinemática.Chimal.Res&Datos.md",
     "003Media/Pasted image 20230629212609.png",
@@ -164,17 +173,12 @@
     "000Templates/References.md",
     "000Templates/Fragment.md",
     "001Fragments/Cinemática.Chimal.ProblemaCinemática.md",
-    "LICENSE",
     "003Media/Pasted image 20230630172819.png",
     "003Media/Pasted image 20230630172630.png",
     "003Media/Pasted image 20230630172352.png",
     "003Media/Pasted image 20230630171921.png",
     "003Media/Pasted image 20230630171729.png",
     "003Media/Pasted image 20230630171240.png",
-    "003Media/Pasted image 20230630171106.png",
-    "000Templates/Map of Content.md",
-    "003Media",
-    "001Fragments",
-    "000Templates"
+    "003Media/Pasted image 20230630171106.png"
   ]
 }
