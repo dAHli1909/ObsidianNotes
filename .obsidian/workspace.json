@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001Fragments/GurrenLagan.Bases.md",
+                "file": "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001Fragments/GurrenLagan.Bases.md",
+                "file": "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001Fragments/GurrenLagan.Bases.md",
+                "file": "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001Fragments/GurrenLagan.Bases.md"
+                "file": "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md"
               }
             }
           }
@@ -150,9 +150,17 @@
   },
   "active": "3ead5881fb729ccf",
   "lastOpenFiles": [
+    "001Fragments/GurrenLagan.Bases.md",
+    "003Media/PDFs/Goldberg.Big-Five-Markers-Psych.Assess.1992.pdf",
+    "003Media/PDFs/goldberg1968.pdf",
+    "003Media/PDFs/Integration of the Big Five and Circumplex Approaches to Trait Structure.pdf",
+    "003Media/PDFs/psnstructure_goldberg.pdf",
+    "003Media/PDFs/Bigfive-circum-jpsp92.pdf",
+    "003Media/PDFs/A broad-bandwidth inventory.pdf",
+    "003Media/PDFs",
+    "003Media/Untitled Folder",
     "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
     "002References/GurrenLagan.Caribou-kun.md",
-    "001Fragments/GurrenLagan.Bases.md",
     "001Fragments/Cinemática.Chimal.Res&Datos.md",
     "001Fragments/Conductismo.Bases.md",
     "001Fragments/Consciencia.UnidadesFuncionales.md",
@@ -171,7 +179,6 @@
     "000Templates/Map of Content.md",
     "LICENSE",
     "001Fragments/Interesting.md",
-    "000Templates",
     "2023-07-08.md",
     "003Media/Pasted image 20230630172819.png",
     "003Media/Pasted image 20230630172630.png",
@@ -182,13 +189,6 @@
     "003Media/Pasted image 20230630171106.png",
     "003Media/Pasted image 20230629212609.png",
     "Untitled.md",
-    "003Media",
-    "004Zettelkasten",
-    "002References",
-    "Templates",
-    "Files",
-    "References",
-    "001Fragments",
     "nicen't.md",
     "Nooooo se nah.md",
     "Hola soy Dani.md",

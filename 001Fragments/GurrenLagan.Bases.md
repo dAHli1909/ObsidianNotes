@@ -51,7 +51,7 @@ It is also worth clarifying that with being a key animator, it is their job to i
 -Hiroyuki Imaishi, FOrbes 2018
 ```
 
-*Ashita no joe*
+*Ashita no joe 2* 
 
 ---
 # References:
