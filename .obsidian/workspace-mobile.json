@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001Fragments/Economía.md",
+                "file": "001Fragments/Neurotransmisores.PsicoClase.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "001Fragments/Economía.md",
+            "file": "001Fragments/Neurotransmisores.PsicoClase.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "001Fragments/Economía.md",
+            "file": "001Fragments/Neurotransmisores.PsicoClase.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "001Fragments/Economía.md"
+            "file": "001Fragments/Neurotransmisores.PsicoClase.md"
           }
         }
       }
@@ -134,6 +134,12 @@
   },
   "active": "7e9c4f55fe5e7119",
   "lastOpenFiles": [
+    "003Media/PDFs/pdfcoffee.com_java-para-estudiantes-5-pdf-free.pdf",
+    "/003Media/PDFs/pdfcoffee.com_java-para-estudiantes-5-pdf-free.pdf",
+    "001Fragments/RegulaciónDeNuestrosProcesos.md",
+    "001Fragments/Neurotransmisores.PsicoClase.md",
+    "001Fragments/Neurotransmisores&Drogas.md",
+    "001Fragments/Economía.md",
     "003Media/PDFs/psnstructure_goldberg.pdf",
     "003Media/PDFs/goldberg1968.pdf",
     "003Media/PDFs/Integration of the Big Five and Circumplex Approaches to Trait Structure.pdf",
@@ -143,12 +149,9 @@
     "/003Media/PDFs/psnstructure_goldberg.pdf",
     "/003Media/PDFs/goldberg1968.pdf",
     "/003Media/PDFs/Integration of the Big Five and Circumplex Approaches to Trait Structure.pdf",
-    "/003Media/PDFs/Goldberg.Big-Five-Markers-Psych.Assess.1992.pdf",
-    "/003Media/PDFs/Bigfive-circum-jpsp92.pdf",
     "/001Fragments/GurrenLagan.Bases.md",
     "/001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
     "004Zettelkasten/PersonalidadGoldberg.md",
-    "001Fragments/Economía.md",
     "002References/GurrenLagan.Caribou-kun.md",
     "001Fragments/GurrenLagan.Bases.md",
     "/002References/GurrenLagan.Caribou-kun.md",
@@ -170,9 +173,6 @@
     "001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
     "001Fragments/Conductismo.Bases.md",
     "003Media/IMG_20231025_105117.jpg",
-    "000Templates/References.md",
-    "000Templates/Fragment.md",
-    "001Fragments/Cinemática.Chimal.ProblemaCinemática.md",
     "003Media/Pasted image 20230630172819.png",
     "003Media/Pasted image 20230630172630.png",
     "003Media/Pasted image 20230630172352.png",
