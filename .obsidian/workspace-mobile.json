@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "001Fragments/ProcesosCognitivos.md",
+                    "file": "001Fragments/VaguenessAmbiguity.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "001Fragments/ProcesosCognitivos.md",
+            "file": "001Fragments/VaguenessAmbiguity.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "001Fragments/ProcesosCognitivos.md",
+            "file": "001Fragments/VaguenessAmbiguity.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "001Fragments/ProcesosCognitivos.md"
+            "file": "001Fragments/VaguenessAmbiguity.md"
           }
         }
       }
@@ -160,8 +160,12 @@
   },
   "active": "7e9c4f55fe5e7119",
   "lastOpenFiles": [
-    "001Fragments/AlgoritmosClusteringClasificación.md",
+    "001Fragments/Introduction To Psychoanalysis.md",
+    "001Fragments/VaguenessAmbiguity.md",
     "001Fragments/ProcesosCognitivos.md",
+    "003Media/PDFs/Programación",
+    "/003Media/PDFs/Programación",
+    "001Fragments/AlgoritmosClusteringClasificación.md",
     "001Fragments/![[image%3A1000007115.md",
     "003Media/IMG_20231115_161544.jpg",
     "003Media/IMG_20231115_161320.jpg",
@@ -181,8 +185,6 @@
     "003Media/PDFs/Integration of the Big Five and Circumplex Approaches to Trait Structure.pdf",
     "003Media/PDFs/Goldberg.Big-Five-Markers-Psych.Assess.1992.pdf",
     "003Media/PDFs/Bigfive-circum-jpsp92.pdf",
-    "003Media/PDFs/A broad-bandwidth inventory.pdf",
-    "/003Media/PDFs/psnstructure_goldberg.pdf",
     "/001Fragments/GurrenLagan.Bases.md",
     "/001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
     "004Zettelkasten/PersonalidadGoldberg.md",
@@ -199,9 +201,7 @@
     "/001Fragments/Cinemática.Chimal.Res&Datos.md",
     "/001Fragments/Cinemática.Chimal.ProblemaCinemática.md",
     "/000Templates/Zettelkasten.md",
-    "/000Templates/References.md",
     "003Media/Pasted image 20230629211631.png",
-    "001Fragments/Cinemática.Chimal.Res&Datos.md",
     "003Media/Pasted image 20230629212609.png",
     "003Media/IMG_20231025_105117.jpg",
     "003Media/Pasted image 20230630172819.png",
