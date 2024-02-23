@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "001Fragments/VaguenessAmbiguity.md",
+                    "file": "001Fragments/GurrenLagan.Bases.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "001Fragments/VaguenessAmbiguity.md",
+            "file": "001Fragments/ProcesosCognitivos.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "001Fragments/VaguenessAmbiguity.md",
+            "file": "001Fragments/ProcesosCognitivos.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "001Fragments/VaguenessAmbiguity.md"
+            "file": "001Fragments/ProcesosCognitivos.md"
           }
         }
       }
@@ -158,10 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e9c4f55fe5e7119",
+  "active": "bff6b278e70e3cc2",
   "lastOpenFiles": [
-    "001Fragments/Introduction To Psychoanalysis.md",
+    "001Fragments/GurrenLagan.Bases.md",
+    "001Fragments/ObjectionsToPsychoanalysisDREAMS.md",
     "001Fragments/VaguenessAmbiguity.md",
+    "002References/Introduction To Psychoanalysis.md",
     "001Fragments/ProcesosCognitivos.md",
     "003Media/PDFs/Programación",
     "/003Media/PDFs/Programación",
@@ -189,7 +191,6 @@
     "/001Fragments/DevelopmentOfMarkersForTheBigFiveStructure.md",
     "004Zettelkasten/PersonalidadGoldberg.md",
     "002References/GurrenLagan.Caribou-kun.md",
-    "001Fragments/GurrenLagan.Bases.md",
     "/002References/GurrenLagan.Caribou-kun.md",
     "001Fragments/Psicología.Papalia_Wenkos.md",
     "002References/Psicología.Papalia_Wenkos.md",
@@ -200,7 +201,6 @@
     "/002References/ChimalCurso2023.md",
     "/001Fragments/Cinemática.Chimal.Res&Datos.md",
     "/001Fragments/Cinemática.Chimal.ProblemaCinemática.md",
-    "/000Templates/Zettelkasten.md",
     "003Media/Pasted image 20230629211631.png",
     "003Media/Pasted image 20230629212609.png",
     "003Media/IMG_20231025_105117.jpg",
