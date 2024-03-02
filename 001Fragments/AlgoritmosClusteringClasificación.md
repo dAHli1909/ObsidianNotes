@@ -1,6 +1,6 @@
 202311151540
 Status: #frag
-Tags: 
+Tags: [[Computación]] [[JHLI]]
 
 # AlgoritmosClusteringClasificación
  ## Inteligencia Artificial

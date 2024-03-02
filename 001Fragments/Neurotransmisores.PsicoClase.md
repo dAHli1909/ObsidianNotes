@@ -1,6 +1,6 @@
 202311101110
 Status: #frag
-Tags: 
+Tags: [[Psicología]]
 
 # Neurotransmisores.PsicoClase
 

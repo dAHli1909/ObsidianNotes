@@ -1,6 +1,6 @@
 202311011325
 Status: #frag
-Tags: 
+Tags: [[Filosofía]] [[Animación]]
 
 # First Mecha Animes
 

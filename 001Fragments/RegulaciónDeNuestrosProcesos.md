@@ -1,6 +1,6 @@
 202311101128
 Status: #frag
-Tags: 
+Tags: Psicología, [[Filosofía]]
 
 # RegulaciónDeNuestrosProcesos
 

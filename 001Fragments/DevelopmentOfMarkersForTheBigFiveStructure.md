@@ -1,7 +1,11 @@
 202310250727
 Status: #frag
-Tags: [[Psicología]]
+Tags: [[Psicología]] [[JHLI]]
+
+-------
 # DevelopmentOfMarkersForTheBigFiveStructure
+
+----- 
 Serie de factores unipolares cuya integración resulta en un estudio más preciso. 
 
 Basado en comentarios dados por estudiados sobre sí mismos y otros. 
@@ -25,4 +29,4 @@ Sin embargo, para mapear realmente bien todo, es necesario ver la geografía; es
 
 ---
 # References:
-- [[Goldberg.Big-Five-Markers-Psych.Assess.1992.pdf]]
+- [[Goldberg.Big-Five-Markers-Psych.Assess.1992]]
