@@ -1,6 +1,6 @@
 202312141539
 Status: #frag
-Tags: 
+Tags: [[Literatura]]
 
 Vagueness doesn't necessarily imply ambiguity 
 

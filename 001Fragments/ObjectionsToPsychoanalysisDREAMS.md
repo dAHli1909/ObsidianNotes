@@ -1,6 +1,6 @@
 202312141947
 Status: #frag
-Tags: 
+Tags: [[Psicología]][[Psicoanálisis]]
 
 # ObjectionsToPsychoanalysis
 1. The vagueness of the dream language doesn't imply it's impossible to use 
@@ -10,4 +10,4 @@ Tags:
 
 ---
 # References:
-- [[Introduction To Psychoanalysis ]]
+c
